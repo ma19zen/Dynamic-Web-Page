@@ -8,7 +8,7 @@ based on scroll position, and comments can be submitted and displayed in real-ti
 # Skills Required
 To complete this project, the following skills are required:
 
-**HTML**: Structure the page with  HTML5 elements and forms.
+**HTML**: Structure the page with  HTML5 elements and forms.<br>
 **CSS**: Style the page layout, navigation, and forms for a Practical and effective design.<br>
 **JavaScript**: Implement dynamic behavior including scrolling effects, form handling, and DOM manipulation.<br>
 Basic understanding of DOM manipulation: Adding, removing, and modifying elements in the DOM based on user interaction or events.
