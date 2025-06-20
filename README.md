@@ -1,15 +1,26 @@
-# Description
-This project is a dynamic single-page web application that dynamically creates navigation based on sections 
-and allows users to leave comments. 
-It utilizes HTML, CSS, and JavaScript to provide an interactive user experience 
-where sections are dynamically highlighted 
-based on scroll position, and comments can be submitted and displayed in real-time.
+# 📝 Dynamic Landing Page
 
-# Skills Required
-To complete this project, the following skills are required:
+## Description
 
-**HTML**: Structure the page with  HTML5 elements and forms.<br>
-**CSS**: Style the page layout, navigation, and forms for a Practical and effective design.<br>
-**JavaScript**: Implement dynamic behavior including scrolling effects, form handling, and DOM manipulation.<br>
-Basic understanding of DOM manipulation: Adding, removing, and modifying elements in the DOM based on user interaction or events.
-Event handling: Using event listeners to capture user actions like scrolling, form submission, and input validation.
+A dynamic single-page web application that generates navigation links based on page sections and allows users to post real-time comments. Built using HTML, CSS, and vanilla JavaScript to enhance the user experience.
+
+> ⚠️ Note: Starter code was provided; some base structure and styles were not built from scratch.
+Also this project is for computer view only not mobile phones
+
+## Features
+
+- 🧭 **Dynamic Navigation:** Menu updates automatically based on page sections.
+- 🎯 **Scroll-Based Highlighting:** Highlights the section currently in the viewport.
+- 💬 **Real-Time Comments:** Users can post comments without page reload.
+
+## Tech Stack
+
+- HTML5  
+- CSS3 (Responsive + Animations)  
+- JavaScript (ES6)
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+
